@@ -166,7 +166,7 @@ By far the most reliable way to get this project running is with [Docker](https:
     *stops the SAT Solver*
 
 ### Configuration
-Please read the [configuration overview]()
+Please read the [configuration overview]([https://github.com/xonixdev/Timetable-Modelling/](https://github.com/xonixdev/Timetable-Modelling/tree/main/data))
             
 ## Usage
 ### Overview
