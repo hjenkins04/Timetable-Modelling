@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Student1",
+        "academic_year": "SECONDYEAR",
+        "program": "COMPSCI",
+        "completed_courses": ["CISC-124"],
+        "course_wish_list": ["CISC-204"],
+        "friends":[
+            {
+                "name": "Student2",
+                "shared_courses": ["CISC-204"]
+            }
+        ]
+    },
+    {
+        "name": "Student2",
+        "academic_year": "SECONDYEAR",
+        "program": "COMPSCI",
+        "completed_courses": [],
+        "course_wish_list": ["CISC-124","CISC-204"],
+        "friends":[
+            {
+                "name": "Student1",
+                "shared_courses": ["CISC-204"]
+            }
+        ]
+    }
+]

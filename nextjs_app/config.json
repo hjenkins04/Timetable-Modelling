@@ -1,0 +1,12 @@
+{
+  "web_app_port": 3000,
+  "sat_solver_port": 3015,
+  "use_web_app": true,
+  "show_propositions": true,
+  "courses_file": "data/reference/courses.json",
+  "buildings_file": "data/reference/buildings.json",
+  "departments_file": "data/reference/departments.json",
+  "sections_file": "data/reference/sections.json",
+  "students_file": "data/reference/students.json",
+  "requirements_file": "data/reference/requirements.json"
+}
