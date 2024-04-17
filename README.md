@@ -11,7 +11,7 @@
   <p align="center">Optimize course schedules by leveraging our SAT solver's logical model</p>
   <p align="center"> CISC-204 Modelling Project</p>
   <p align="center">
-    <a href="https://github.com/xonixdev/Timetable-Modelling/blob/main/documents/final/report.pdf">Explore the Report</a>
+    <a href="./documents/final/report.pdf">Explore the Report</a>
   </p>
 </p>
 
@@ -201,12 +201,12 @@ This prompt accepts user input for a *test case id*. After entering a case the s
 The Console Mode remains in a while loop repeatedly asking for user input until the `e` key is entered closing the program.
 
 ### Custom Test Cases
-Please read the [creating custom test cases overview](https://github.com/xonixdev/Timetable-Modelling/blob/main/data/README.md)
+Please read the [creating custom test cases overview](./data/README.md)
 
 ## Contents
 - [Web App Overview](https://github.com/xonixdev/Timetable-Modelling/tree/main/nextjs_app#readme)
-- [Data Set Overview](https://github.com/xonixdev/Timetable-Modelling/blob/main/data/reference/README.md)
-- [Creating Custom Test Cases](https://github.com/xonixdev/Timetable-Modelling/blob/main/data/README.md)
+- [Data Set Overview](./data/reference/README.md)
+- [Creating Custom Test Cases](./data/README.md)
 
 ## Uninstall
 
