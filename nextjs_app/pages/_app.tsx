@@ -17,7 +17,7 @@ import "../node_modules/@syncfusion/ej2-react-grids/styles/material.css";
 
 import { registerLicense } from '@syncfusion/ej2-base';
 
-registerLicense('Ngo9BigBOggjHTQxAR8/V1NGaF1cVWhIfEx1RHxQdld5ZFRHallYTnNWUj0eQnxTdEZjUX5ccXJWRWNZVkJ0WA==');
+registerLicense('...key...');
 
 function MyApp({ Component, pageProps }: AppProps) {
   return <Component {...pageProps} />
